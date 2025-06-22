@@ -2,9 +2,9 @@
 
 ## 🎙️ Scopo del progetto
 
-Il progetto nasce con l’obiettivo di far conoscere il circolo a un pubblico più ampio, **invogliare nuove persone a visitarlo**, e allo stesso tempo offrire uno spazio – fisico e online – **libero, aperto e accessibile** per chi già lo frequenta come artista o come pubblico.
+Il progetto nasce con l’obiettivo di far conoscere PWCC a un pubblico più ampio, **invogliare nuove persone a partecipare alle attività e serate** e allo stesso tempo offrire uno spazio – fisico e online – **libero, aperto e accessibile** per chi già lo frequenta come artista o come pubblico.
 
-Una radio del circolo può rafforzare il ruolo dello spazio come punto di riferimento per la **club culture** e gli **appassionati di musica**, sia locali che provenienti da altri contesti, creando connessioni nuove, sperimentali e comunitarie.
+La radio può rafforzare il ruolo dello spazio come punto di riferimento per la **club culture** e gli **appassionati di musica**, sia locali che provenienti da altri contesti, creando connessioni nuove, sperimentali e comunitarie.
 
 ## 👤 Persone coinvolte
 
