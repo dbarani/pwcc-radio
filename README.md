@@ -2,8 +2,8 @@
 
 ## 🎙️ Scopo del progetto
 
-Il progetto nasce con l’obiettivo di far conoscere PWCC a un pubblico più ampio, sfruttando il bellissimo spazio che occupa per diffondere musica e far conoscere gli artisti, **mettendo allo stesso tempo curiosità a nuove persone interessate alla musica elettronica e per stimolarle a partecipare alle attività e serate**.
-Durante le attività della radio, PWCC diventa uno spazio **libero, aperto e accessibile** per chi già lo frequenta come artista o come pubblico, un luogo di ritrovo con musica di sottofondo e nuove connessioni.
+Il progetto nasce con l’obiettivo di far conoscere PWCC a un pubblico più ampio, sfruttando il bellissimo spazio che occupa per diffondere musica e far conoscere gli artisti, **mettendo allo stesso tempo curiosità a nuove persone interessate alla musica elettronica per stimolarle a partecipare alle attività e serate**.
+Durante le attività della radio, PWCC diventa uno spazio **libero, aperto e accessibile** per chi già lo frequenta come artista o come pubblico, un luogo di ritrovo con musica di sottofondo, nuove connessioni, attività di svago/relax.
 
 La radio può rafforzare il ruolo dello spazio come punto di riferimento per la **club culture** e gli **appassionati di musica**, sia locali che provenienti da altri contesti, creando connessioni e coltivandone la comunità.
 
