@@ -2,18 +2,20 @@
 
 ## 🎙️ Scopo del progetto
 
-Il progetto nasce con l’obiettivo di far conoscere PWCC a un pubblico più ampio, **invogliare nuove persone a partecipare alle attività e serate** e allo stesso tempo offrire uno spazio – fisico e online – **libero, aperto e accessibile** per chi già lo frequenta come artista o come pubblico.
+Il progetto nasce con l’obiettivo di far conoscere PWCC a un pubblico più ampio, sfruttando il bellissimo spazio che occupa per diffondere musica e far conoscere gli artisti, **mettendo allo stesso tempo curiosità a nuove persone interessate alla musica elettronica e per stimolarle a partecipare alle attività e serate**.
+Durante le attività della radio, PWCC diventa uno spazio **libero, aperto e accessibile** per chi già lo frequenta come artista o come pubblico, un luogo di ritrovo con musica di sottofondo e nuove connessioni.
 
-La radio può rafforzare il ruolo dello spazio come punto di riferimento per la **club culture** e gli **appassionati di musica**, sia locali che provenienti da altri contesti, creando connessioni nuove, sperimentali e comunitarie.
+La radio può rafforzare il ruolo dello spazio come punto di riferimento per la **club culture** e gli **appassionati di musica**, sia locali che provenienti da altri contesti, creando connessioni e coltivandone la comunità.
 
 ## 👤 Persone coinvolte
 
-- Una persona attiverà il progetto in fase iniziale, gestendo la parte software e il setup.
-- In futuro potranno essere coinvolti:
-  - Fonici e tecnici del circolo
-  - Soci interessati a imparare la gestione tecnica
-  - **Artisti** e **ospiti esterni** che normalmente non suonano al circolo
-  - Chiunque voglia proporre contenuti legati alla musica o alla cultura attiva del territorio
+Le persone coinvolte possono essere volendo molteplici, ma queste in particolare sono le attività da portare avanti per la buona riuscita del progetto:
+- Pianificazione palinsesto (orari e frequenza ancora da definire) e spazio fisico
+- Burocrazia (probabilmente annettibili ad altre attività burocratiche del circolo visto che è solo una questione di licenze annuali, ma se serve se ne può occupare il referente del progetto)
+- Setup hardware e software
+- Assistenza tecnica durante l'orario di broadcast/streaming
+
+In futuro ci si immagina potranno essere coinvolti anche **Artisti** e **ospiti esterni** che normalmente non suonano al circolo, oppure chiunque voglia proporre contenuti legati alla musica o alla cultura attiva del territorio in base alla compatibilità dell'identità del circolo.
 
 ## 🧱 Cose
 
@@ -33,7 +35,7 @@ La radio può rafforzare il ruolo dello spazio come punto di riferimento per la 
 - [ ] Supporto microfono da tavolo
 - [ ] Coppia casse monitor
 - [ ] Cuffie chiuse da studio
-- [ ] Cavetteria varia (XLR, jack, adattatori)  
+- [ ] Cavetteria varia (XLR, jack, adattatori)
 - [ ] Treppiede regolabile
 - [ ] Smartphone / macchina fotografica compatibile con uscita video HDMI (tipo Canon M50 / Sony ZV-E10)  
 - [ ] Scheda di acquisizione video (es. Elgato Cam Link)  
@@ -61,7 +63,7 @@ La radio può rafforzare il ruolo dello spazio come punto di riferimento per la 
 - Visual ID - https://sigilradio.live
 - A tutto tondo - https://aajamusic.com
 - Club oriented - www.radioraheem.it/
-- Hey did you saw that cool place on IG - https://www.youtube.com/@themuddshow/videos
+- Hey did you saw that cool place on IG - https://www.instagram.com/themuddshow/ | https://www.youtube.com/@themuddshow/videos
 
 
 ## 🔄 Sviluppi futuri
