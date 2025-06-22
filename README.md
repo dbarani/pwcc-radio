@@ -54,6 +54,14 @@ Una radio del circolo può rafforzare il ruolo dello spazio come punto di riferi
 | Attrezzatura          | Una tantum | Da definire      |
 | Hosting audio/video   | Annuale    | ~0–120 EUR       |
 
+## Reference e inspo
+
+https://fritto.fm
+https://sigilradio.live
+www.radioraheem.it/
+https://www.youtube.com/@themuddshow/videos
+
+
 ## 🔄 Sviluppi futuri
 
 - Spazio talk e interviste – su musica, attivismo, cultura  
