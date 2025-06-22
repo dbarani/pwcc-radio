@@ -55,7 +55,7 @@ La radio può rafforzare il ruolo dello spazio come punto di riferimento per la 
 | Attrezzatura          | Una tantum | Da definire      |
 | Hosting audio/video   | Annuale    | ~0–120 EUR       |
 
-## Reference e inspo
+## 🪐 Reference e inspo
 
 - https://fritto.fm
 - https://sigilradio.live
