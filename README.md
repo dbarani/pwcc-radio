@@ -57,11 +57,11 @@ La radio può rafforzare il ruolo dello spazio come punto di riferimento per la 
 
 ## 🪐 Reference e inspo
 
-- https://fritto.fm
-- https://sigilradio.live
-- https://aajamusic.com
-- www.radioraheem.it/
-- https://www.youtube.com/@themuddshow/videos
+- Stage iniziale - https://fritto.fm
+- Visual ID - https://sigilradio.live
+- A tutto tondo - https://aajamusic.com
+- Club oriented - www.radioraheem.it/
+- Hey did you saw that cool place on IG - https://www.youtube.com/@themuddshow/videos
 
 
 ## 🔄 Sviluppi futuri
