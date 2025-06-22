@@ -56,10 +56,10 @@ Una radio del circolo può rafforzare il ruolo dello spazio come punto di riferi
 
 ## Reference e inspo
 
-https://fritto.fm
-https://sigilradio.live
-www.radioraheem.it/
-https://www.youtube.com/@themuddshow/videos
+- https://fritto.fm
+- https://sigilradio.live
+- www.radioraheem.it/
+- https://www.youtube.com/@themuddshow/videos
 
 
 ## 🔄 Sviluppi futuri
