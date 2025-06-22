@@ -11,11 +11,11 @@ La radio può rafforzare il ruolo dello spazio come punto di riferimento per la 
 
 Le persone coinvolte possono essere volendo molteplici, ma queste in particolare sono le attività da portare avanti per la buona riuscita del progetto:
 - Pianificazione palinsesto (orari e frequenza ancora da definire) e spazio fisico
-- Burocrazia (probabilmente annettibili ad altre attività burocratiche del circolo visto che è solo una questione di licenze annuali, ma se serve se ne può occupare il referente del progetto)
+- Burocrazia (probabilmente annettibili ad altre attività burocratiche di PWCC visto che è solo una questione di licenze annuali, ma se serve se ne può occupare il referente del progetto)
 - Setup hardware e software
 - Assistenza tecnica durante l'orario di broadcast/streaming
 
-In futuro ci si immagina potranno essere coinvolti anche **Artisti** e **ospiti esterni** che normalmente non suonano al circolo, oppure chiunque voglia proporre contenuti legati alla musica o alla cultura attiva del territorio in base alla compatibilità dell'identità del circolo.
+In futuro ci si immagina potranno essere coinvolti anche **Artisti** e **ospiti esterni** che normalmente non suonano al PWCC, oppure chiunque voglia proporre contenuti legati alla musica o alla cultura attiva del territorio in base alla compatibilità dell'identità di PWCC.
 
 ## 🧱 Cose
 
